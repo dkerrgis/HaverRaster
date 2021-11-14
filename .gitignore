@@ -1,0 +1,9 @@
+__pycache__/
+haversine_distance/__pycache__/
+tests/__pycache__/
+./tests/__pycache__/
+*.pyc
+tests/data/
+haver-dist-DELETE
+rubbish
+dask-worker-space/
